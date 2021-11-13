@@ -5,7 +5,7 @@ using UnityEngine;
 public class BackGroung : MonoBehaviour
 {
     public Material[] _skyMaterials;
-
+    
     
     // Start is called before the first frame update
     void Start()

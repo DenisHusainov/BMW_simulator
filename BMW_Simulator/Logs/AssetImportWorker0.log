@@ -8,30 +8,30 @@ Using pre-set license
 -name
 AssetImportWorker0
 -projectPath
-/Users/denishusainov/Documents/GitHub/BMW_simulator/BMW_Simulator
+/Users/denishusainov/Documents/GitHub/CAr_simulator/BMW_Simulator
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-64852
-Successfully changed project path to: /Users/denishusainov/Documents/GitHub/BMW_simulator/BMW_Simulator
-/Users/denishusainov/Documents/GitHub/BMW_simulator/BMW_Simulator
+54520
+Successfully changed project path to: /Users/denishusainov/Documents/GitHub/CAr_simulator/BMW_Simulator
+/Users/denishusainov/Documents/GitHub/CAr_simulator/BMW_Simulator
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 37.72 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 22.95 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.8f1 (507919d4fff5)
 [Subsystems] Discovering subsystems at path /Applications/Unity/2020.3.8f1/Unity.app/Contents/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path /Users/denishusainov/Documents/GitHub/BMW_simulator/BMW_Simulator/Assets
+[Subsystems] Discovering subsystems at path /Users/denishusainov/Documents/GitHub/CAr_simulator/BMW_Simulator/Assets
 GfxDevice: creating device client; threaded=0
-2021-11-13 00:16:35.158 Unity[5097:5090279] (null) preferred device: Apple M1 (high power)
-2021-11-13 00:16:35.158 Unity[5097:5090279] Metal devices available: 1
-2021-11-13 00:16:35.158 Unity[5097:5090279] 0: Apple M1 (high power)
-2021-11-13 00:16:35.159 Unity[5097:5090279] Using device Apple M1 (high power)
+2021-11-13 13:36:14.576 Unity[10823:5323413] (null) preferred device: Apple M1 (high power)
+2021-11-13 13:36:14.576 Unity[10823:5323413] Metal devices available: 1
+2021-11-13 13:36:14.576 Unity[10823:5323413] 0: Apple M1 (high power)
+2021-11-13 13:36:14.577 Unity[10823:5323413] Using device Apple M1 (high power)
 Initializing Metal device caps: Apple M1
 Initialize mono
 Mono path[0] = '/Applications/Unity/2020.3.8f1/Unity.app/Contents/Managed'
 Mono path[1] = '/Applications/Unity/2020.3.8f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = '/Applications/Unity/2020.3.8f1/Unity.app/Contents/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56097
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56823
 Begin MonoManager ReloadAssembly
 Error scanning for extension ivy.xml files: System.UnauthorizedAccessException: Access to the path '/Applications/Unity/2020.3.8f1/PlaybackEngines/WebGLSupport/BuildTools/Emscripten_Mac/node' is denied.
   at System.IO.__Error.WinIOError (System.Int32 errorCode, System.String maybeFullPath) [0x00129] in <695d1cc93cca45069c528c15c9fdd749>:0 
@@ -47,17 +47,17 @@ Registering precompiled unity dll's ...
 Register platform support module: /Applications/Unity/2020.3.8f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: /Applications/Unity/2020.3.8f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
 Register platform support module: /Applications/Unity/2020.3.8f1/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.002714 seconds.
+Registered in 0.001617 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 24.93 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 25.65 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  3.955 seconds
+- Completed reload, in  3.173 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.000691 seconds.
+Registered in 0.000520 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
@@ -65,32 +65,65 @@ Native extension for WebGL target not found
 Refreshing native plugins compatible for Editor in 0.20 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.828 seconds
+- Completed reload, in  1.840 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launching external process: /Applications/Unity/2020.3.8f1/Unity.app/Contents/Tools/UnityShaderCompiler
-Launched and connected shader compiler UnityShaderCompiler after 0.05 seconds
-Refreshing native plugins compatible for Editor in 0.20 ms, found 1 plugins.
+Launched and connected shader compiler UnityShaderCompiler after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.22 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 113.6 MB.
-System memory in use after: 113.7 MB.
+Unloading 1120 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 112.9 MB.
+System memory in use after: 112.9 MB.
 
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1565.
-Total: 2.959125 ms (FindLiveObjects: 0.097042 ms CreateObjectMapping: 0.023375 ms MarkObjects: 2.614250 ms  DeleteObjects: 0.223459 ms)
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1566.
+Total: 1.273792 ms (FindLiveObjects: 0.101250 ms CreateObjectMapping: 0.022833 ms MarkObjects: 1.067083 ms  DeleteObjects: 0.081583 ms)
 
 ========================================================================
 Received Import Request.
   path: Assets/Scripts/BackGroung.cs
   artifactKey: Guid(bf1dee1e8884140c8a06ebee778bdcdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/BackGroung.cs using Guid(bf1dee1e8884140c8a06ebee778bdcdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23c8bda248dba4e13b2ef5bcfead86b1') in 1.733694 seconds
-  Import took 1.737595 seconds .
+Start importing Assets/Scripts/BackGroung.cs using Guid(bf1dee1e8884140c8a06ebee778bdcdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '460afe5c88f2f2aca327a11b7e468e2c') in 1.150275 seconds
+  Import took 1.151842 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.278056 seconds.
+  path: Assets/Scripts/NewBehaviourScript.cs
+  artifactKey: Guid(47a26623960804d72b5d4b4189054c3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NewBehaviourScript.cs using Guid(47a26623960804d72b5d4b4189054c3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9571d18364483768e66ec9ea40a2d057') in 0.004912 seconds
+  Import took 0.011903 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.000357 seconds.
+Registered in 0.000416 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.069 seconds
+Platform modules already initialized, skipping
+Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.20 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1117 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 116.9 MB.
+System memory in use after: 117.0 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1568.
+Total: 3.321333 ms (FindLiveObjects: 0.118125 ms CreateObjectMapping: 0.024167 ms MarkObjects: 2.955500 ms  DeleteObjects: 0.222709 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000610 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
@@ -98,661 +131,17 @@ Native extension for WebGL target not found
 Refreshing native plugins compatible for Editor in 0.19 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.725 seconds
-Platform modules already initialized, skipping
-Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
-Refreshing native plugins compatible for Editor in 0.21 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1117 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 118.0 MB.
-System memory in use after: 118.0 MB.
-
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1568.
-Total: 2.411791 ms (FindLiveObjects: 0.113958 ms CreateObjectMapping: 0.022875 ms MarkObjects: 2.048916 ms  DeleteObjects: 0.225250 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000651 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for OSXStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.18 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.627 seconds
+- Completed reload, in  1.693 seconds
 Platform modules already initialized, skipping
 Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
 Refreshing native plugins compatible for Editor in 0.17 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1117 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 118.2 MB.
-System memory in use after: 118.3 MB.
+System memory in use before: 117.1 MB.
+System memory in use after: 117.2 MB.
 
 Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1571.
-Total: 1.111000 ms (FindLiveObjects: 0.097708 ms CreateObjectMapping: 0.021875 ms MarkObjects: 0.932083 ms  DeleteObjects: 0.058708 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
-========================================================================
-Received Import Request.
-  Time since last request: 369.772288 seconds.
-  path: Assets/Scripts/NewBehaviourScript.cs
-  artifactKey: Guid(19c3f77535a66433a87efc0b7b8ed926) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/NewBehaviourScript.cs using Guid(19c3f77535a66433a87efc0b7b8ed926) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '294c58aa044fff338a6ac29dfe4012f4') in 0.008604 seconds
-  Import took 0.010467 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000539 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for OSXStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.21 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.934 seconds
-Platform modules already initialized, skipping
-Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
-Refreshing native plugins compatible for Editor in 0.20 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1118 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 118.5 MB.
-System memory in use after: 118.5 MB.
-
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1575.
-Total: 1.272125 ms (FindLiveObjects: 0.138958 ms CreateObjectMapping: 0.024208 ms MarkObjects: 1.040500 ms  DeleteObjects: 0.067167 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
-========================================================================
-Received Import Request.
-  Time since last request: 251.532771 seconds.
-  path: Assets/Resuorsec/Simple city plain
-  artifactKey: Guid(0d1afeefe1480462abfae13387ddc1eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resuorsec/Simple city plain using Guid(0d1afeefe1480462abfae13387ddc1eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07795d20f2def1dc087b0993606f9551') in 0.020828 seconds
-  Import took 0.030130 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.440615 seconds.
-  path: Assets/Resuorsec/Simple city plain/Prefabs
-  artifactKey: Guid(9b3f41c9510b3cd43a8766a508dc6635) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resuorsec/Simple city plain/Prefabs using Guid(9b3f41c9510b3cd43a8766a508dc6635) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60bf2bc53ed59d2a46cea93c2c520f29') in 0.001349 seconds
-  Import took 0.003582 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.048883 seconds.
-  path: Assets/Resuorsec/Simple city plain/Prefabs/bench prefab.prefab
-  artifactKey: Guid(80c5916b9606ce646be16611d9a06d13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resuorsec/Simple city plain/Prefabs/bench prefab.prefab using Guid(80c5916b9606ce646be16611d9a06d13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3936b24289ce6577a3ba4ddd8b17e2ec') in 1.159207 seconds
-  Import took 1.160887 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000202 seconds.
-  path: Assets/Resuorsec/Simple city plain/Prefabs/Building_I_2_Prefab.prefab
-  artifactKey: Guid(1e198ff9400b5064c816d8f779eff296) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resuorsec/Simple city plain/Prefabs/Building_I_2_Prefab.prefab using Guid(1e198ff9400b5064c816d8f779eff296) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9b386cae9617bdcf91aa61202d7908a') in 0.027781 seconds
-  Import took 0.029333 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000231 seconds.
-  path: Assets/Resuorsec/Simple city plain/Prefabs/Gas_station_A_PREFAB.prefab
-  artifactKey: Guid(01bbe20c855564648b02e0092e511cac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resuorsec/Simple city plain/Prefabs/Gas_station_A_PREFAB.prefab using Guid(01bbe20c855564648b02e0092e511cac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fef83267a5c799b0a84580e446562e1d') in 0.009876 seconds
-  Import took 0.011362 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000251 seconds.
-  path: Assets/Resuorsec/Simple city plain/Prefabs/Building_I_1_prefab.prefab
-  artifactKey: Guid(931ecb32d754b3f40afc9a688c8cea66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resuorsec/Simple city plain/Prefabs/Building_I_1_prefab.prefab using Guid(931ecb32d754b3f40afc9a688c8cea66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a20b3e7121df4da1c5f67295619f6de') in 0.011746 seconds
-  Import took 0.013217 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000247 seconds.
-  path: Assets/Resuorsec/Simple city plain/Prefabs/Stone Floor prefab.prefab
-  artifactKey: Guid(ffa4d200e6c7d9c4b90b3764b7ed86d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resuorsec/Simple city plain/Prefabs/Stone Floor prefab.prefab using Guid(ffa4d200e6c7d9c4b90b3764b7ed86d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46913e2842b07673af7b64ff5dcdab55') in 0.005953 seconds
-  Import took 0.007325 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000244 seconds.
-  path: Assets/Resuorsec/Simple city plain/Prefabs/Building_M_prefab.prefab
-  artifactKey: Guid(84bb406b82cecb24cb1ffe5d4359339d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resuorsec/Simple city plain/Prefabs/Building_M_prefab.prefab using Guid(84bb406b82cecb24cb1ffe5d4359339d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdead6a4da874dff8d3981f32f1a946e') in 0.007367 seconds
-  Import took 0.008786 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000213 seconds.
-  path: Assets/Resuorsec/Simple city plain/Prefabs/bench prefab.prefab
-  artifactKey: Guid(80c5916b9606ce646be16611d9a06d13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resuorsec/Simple city plain/Prefabs/bench prefab.prefab using Guid(80c5916b9606ce646be16611d9a06d13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3936b24289ce6577a3ba4ddd8b17e2ec') in 0.005597 seconds
-  Import took 0.007003 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000298 seconds.
-  path: Assets/Resuorsec/Simple city plain/Prefabs/Street 3 Prefab.prefab
-  artifactKey: Guid(2224b63330275e5478ef024b2913f937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resuorsec/Simple city plain/Prefabs/Street 3 Prefab.prefab using Guid(2224b63330275e5478ef024b2913f937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9a23fd6ea39acb181859ad66aa837c4') in 0.005908 seconds
-  Import took 0.007283 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000201 seconds.
-  path: Assets/Resuorsec/Simple city plain/Prefabs/Building_A1_prefab.prefab
-  artifactKey: Guid(562df8355904213468a690c4ce6740b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resuorsec/Simple city plain/Prefabs/Building_A1_prefab.prefab using Guid(562df8355904213468a690c4ce6740b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdaca5b6ea57b0680d480154d1974c2f') in 0.015905 seconds
-  Import took 0.017453 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000210 seconds.
-  path: Assets/Resuorsec/Simple city plain/Prefabs/Pot_tree prefab.prefab
-  artifactKey: Guid(8e00364320862a746a6e67a5af5e5979) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resuorsec/Simple city plain/Prefabs/Pot_tree prefab.prefab using Guid(8e00364320862a746a6e67a5af5e5979) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4596e3476bb9e9cb2b2148c28e22b423') in 0.313229 seconds
-  Import took 0.314578 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000272 seconds.
-  path: Assets/Resuorsec/Simple city plain/Prefabs/ColaMachine prefab.prefab
-  artifactKey: Guid(2bf7da734f1a8224fb14055902b5b343) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resuorsec/Simple city plain/Prefabs/ColaMachine prefab.prefab using Guid(2bf7da734f1a8224fb14055902b5b343) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2425096cb0422818bc9ccfe49b1a241') in 0.011210 seconds
-  Import took 0.012577 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000222 seconds.
-  path: Assets/Resuorsec/Simple city plain/Prefabs/Building_N_Prefab.prefab
-  artifactKey: Guid(bbad862e7e06efe4a8ad0346a53e3cde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resuorsec/Simple city plain/Prefabs/Building_N_Prefab.prefab using Guid(bbad862e7e06efe4a8ad0346a53e3cde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a0d16e6dd8bb21e4ca68ae69235ebcc') in 0.019991 seconds
-  Import took 0.021491 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000209 seconds.
-  path: Assets/Resuorsec/Simple city plain/Prefabs/Shop_B_prefab.prefab
-  artifactKey: Guid(9a52ba64c3a0abf49ad9515917ade04b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resuorsec/Simple city plain/Prefabs/Shop_B_prefab.prefab using Guid(9a52ba64c3a0abf49ad9515917ade04b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0979a870ab96d4c22d598fc7311a548') in 0.008354 seconds
-  Import took 0.009759 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000279 seconds.
-  path: Assets/Resuorsec/Simple city plain/Prefabs/Tree prefab.prefab
-  artifactKey: Guid(1be61187b5d765449be824463642cb0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resuorsec/Simple city plain/Prefabs/Tree prefab.prefab using Guid(1be61187b5d765449be824463642cb0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5cc36c3955e69e39455db73ebc6b1cc') in 0.006415 seconds
-  Import took 0.007834 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000276 seconds.
-  path: Assets/Resuorsec/Simple city plain/Prefabs/Grass Prefab.prefab
-  artifactKey: Guid(7446a392a730ac14d9cc70d21cf7ace0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resuorsec/Simple city plain/Prefabs/Grass Prefab.prefab using Guid(7446a392a730ac14d9cc70d21cf7ace0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b4411bdc71eb5f7509244e497a2d089') in 0.005905 seconds
-  Import took 0.007176 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000242 seconds.
-  path: Assets/Resuorsec/Simple city plain/Prefabs/Sideway Prefab.prefab
-  artifactKey: Guid(a9da80f587bbf9046aefc4a4cfb8a7fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resuorsec/Simple city plain/Prefabs/Sideway Prefab.prefab using Guid(a9da80f587bbf9046aefc4a4cfb8a7fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43082b1b7745f6f275e064219037a165') in 0.006255 seconds
-  Import took 0.007683 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000211 seconds.
-  path: Assets/Resuorsec/Simple city plain/Prefabs/street_lamp 1 prefab.prefab
-  artifactKey: Guid(6825a3fe8a1605f42a0d0589e582ac40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resuorsec/Simple city plain/Prefabs/street_lamp 1 prefab.prefab using Guid(6825a3fe8a1605f42a0d0589e582ac40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d1402e8c908f0610769ff4ade488024') in 0.006289 seconds
-  Import took 0.007570 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000245 seconds.
-  path: Assets/Resuorsec/Simple city plain/Prefabs/Big_trash_bin prefab.prefab
-  artifactKey: Guid(331560f2206dc024cb084301a19c05ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resuorsec/Simple city plain/Prefabs/Big_trash_bin prefab.prefab using Guid(331560f2206dc024cb084301a19c05ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7d13a291ab5b343bca5d7b4504723b6') in 0.006369 seconds
-  Import took 0.007658 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 21.884831 seconds.
-  path: Assets/Resuorsec/Simple city plain/Material & Texture
-  artifactKey: Guid(303261bbfeb508d44b9dd651e94c3611) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resuorsec/Simple city plain/Material & Texture using Guid(303261bbfeb508d44b9dd651e94c3611) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5428e9fe79343267094f37b07543f1f0') in 0.001187 seconds
-  Import took 0.003882 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.069324 seconds.
-  path: Assets/Resuorsec/Simple city plain/Material & Texture/Day.mat
-  artifactKey: Guid(dfd5fe4561034804291bb92fffe808d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resuorsec/Simple city plain/Material & Texture/Day.mat using Guid(dfd5fe4561034804291bb92fffe808d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d46846f8c3e17d599c1671c1a2ed2bd') in 0.362578 seconds
-  Import took 0.364375 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.067540 seconds.
-  path: Assets/Resuorsec/Simple city plain/Material & Texture/Night.mat
-  artifactKey: Guid(2693a75b9cc71fb4bae0674a2e512e59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resuorsec/Simple city plain/Material & Texture/Night.mat using Guid(2693a75b9cc71fb4bae0674a2e512e59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c89dffd64e2a56f755b3ba2b72f9efad') in 0.013080 seconds
-  Import took 0.015091 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.636295 seconds.
-  path: Assets/Resuorsec/Simple city plain/Material & Texture/Material mesh
-  artifactKey: Guid(c3579caf36429794f9ba06747eeab259) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resuorsec/Simple city plain/Material & Texture/Material mesh using Guid(c3579caf36429794f9ba06747eeab259) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9785c1c4e39f45d7b3e4d3a1fc78e631') in 0.000950 seconds
-  Import took 0.002883 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.060245 seconds.
-  path: Assets/Resuorsec/Simple city plain/Material & Texture/Material mesh/Bench texture.png
-  artifactKey: Guid(9a4a04b84933213428ed33e0c31813b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resuorsec/Simple city plain/Material & Texture/Material mesh/Bench texture.png using Guid(9a4a04b84933213428ed33e0c31813b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f5cf2fd55ffcefb3250cc47c50b549b') in 0.492251 seconds
-  Import took 0.493906 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000233 seconds.
-  path: Assets/Resuorsec/Simple city plain/Material & Texture/Material mesh/Street_03.png
-  artifactKey: Guid(16380d10f7bec4543adccda1aeb700f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resuorsec/Simple city plain/Material & Texture/Material mesh/Street_03.png using Guid(16380d10f7bec4543adccda1aeb700f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c9b53530bc6c05b987dde3ed21d75d2') in 0.007264 seconds
-  Import took 0.008588 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000187 seconds.
-  path: Assets/Resuorsec/Simple city plain/Material & Texture/Material mesh/tree leaf.mat
-  artifactKey: Guid(45aa121491da72e4b8c0fcdb4533272d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resuorsec/Simple city plain/Material & Texture/Material mesh/tree leaf.mat using Guid(45aa121491da72e4b8c0fcdb4533272d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ccc9c035d5d337874801f6edd730b85') in 0.013072 seconds
-  Import took 0.014538 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000248 seconds.
-  path: Assets/Resuorsec/Simple city plain/Material & Texture/Material mesh/gas pump.mat
-  artifactKey: Guid(1f3aed826d0deb142ae61d35be7f4ff8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resuorsec/Simple city plain/Material & Texture/Material mesh/gas pump.mat using Guid(1f3aed826d0deb142ae61d35be7f4ff8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c183342ade563aacdf75da2865743fac') in 0.016435 seconds
-  Import took 0.017963 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000163 seconds.
-  path: Assets/Resuorsec/Simple city plain/Material & Texture/Material mesh/grass.png
-  artifactKey: Guid(761fcc9b74a11dc4097e656edc402314) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resuorsec/Simple city plain/Material & Texture/Material mesh/grass.png using Guid(761fcc9b74a11dc4097e656edc402314) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf9489ff37d20fa3424d5c2b718abe92') in 0.007893 seconds
-  Import took 0.009850 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000194 seconds.
-  path: Assets/Resuorsec/Simple city plain/Material & Texture/Material mesh/grass.mat
-  artifactKey: Guid(9904cd0f6245e884999431c0bdf22fef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resuorsec/Simple city plain/Material & Texture/Material mesh/grass.mat using Guid(9904cd0f6245e884999431c0bdf22fef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb8e66057d1b4a0436e673672f4bb951') in 0.005875 seconds
-  Import took 0.007171 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000266 seconds.
-  path: Assets/Resuorsec/Simple city plain/Material & Texture/Material mesh/street 3.mat
-  artifactKey: Guid(7e20040aa26e36443b2ae6d45e7b8ff6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resuorsec/Simple city plain/Material & Texture/Material mesh/street 3.mat using Guid(7e20040aa26e36443b2ae6d45e7b8ff6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e6581b1b8f2b294224710781f279762') in 0.005534 seconds
-  Import took 0.006899 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000283 seconds.
-  path: Assets/Resuorsec/Simple city plain/Material & Texture/Material mesh/pot_plant_leaf.png
-  artifactKey: Guid(cf21488ffdf03a249b361ac7b5f2d5f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resuorsec/Simple city plain/Material & Texture/Material mesh/pot_plant_leaf.png using Guid(cf21488ffdf03a249b361ac7b5f2d5f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1611dad177507042d96a881277d411d0') in 0.006853 seconds
-  Import took 0.008175 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000199 seconds.
-  path: Assets/Resuorsec/Simple city plain/Material & Texture/Material mesh/big trash bin texture.png
-  artifactKey: Guid(cb629d531f414f64288cca236d43f674) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resuorsec/Simple city plain/Material & Texture/Material mesh/big trash bin texture.png using Guid(cb629d531f414f64288cca236d43f674) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd89d1c9ef7756fb2b951749616d6cffe') in 0.003868 seconds
-  Import took 0.005137 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000249 seconds.
-  path: Assets/Resuorsec/Simple city plain/Material & Texture/Material mesh/leafes tree 1.png
-  artifactKey: Guid(d77ac9832e1f7ce4e8ad8e45903243e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resuorsec/Simple city plain/Material & Texture/Material mesh/leafes tree 1.png using Guid(d77ac9832e1f7ce4e8ad8e45903243e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85b1e9cbf20b600c003edbee94d45af1') in 0.003108 seconds
-  Import took 0.004511 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000234 seconds.
-  path: Assets/Resuorsec/Simple city plain/Material & Texture/Material mesh/Shop_B_Texture.png
-  artifactKey: Guid(2d0557711b6926441b57384036df45a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resuorsec/Simple city plain/Material & Texture/Material mesh/Shop_B_Texture.png using Guid(2d0557711b6926441b57384036df45a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23d57d711d3b149e198d1507ea90da69') in 0.005412 seconds
-  Import took 0.006965 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000220 seconds.
-  path: Assets/Resuorsec/Simple city plain/Material & Texture/Material mesh/Gas_pump_texture.png
-  artifactKey: Guid(eb51553d840fc824a9b6b45fefb28750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resuorsec/Simple city plain/Material & Texture/Material mesh/Gas_pump_texture.png using Guid(eb51553d840fc824a9b6b45fefb28750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67a39750ee457446c0576bf65a224806') in 0.004758 seconds
-  Import took 0.006093 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000188 seconds.
-  path: Assets/Resuorsec/Simple city plain/Material & Texture/Material mesh/Hydrant.mat
-  artifactKey: Guid(84656e979de647d48a1dffd409494192) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resuorsec/Simple city plain/Material & Texture/Material mesh/Hydrant.mat using Guid(84656e979de647d48a1dffd409494192) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49ab946742a35e56545eafcc13aa4ce7') in 0.005784 seconds
-  Import took 0.007022 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000219 seconds.
-  path: Assets/Resuorsec/Simple city plain/Material & Texture/Material mesh/coke_machine_texture.png
-  artifactKey: Guid(1936ed2defc3a7f4b906965a34d00aaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resuorsec/Simple city plain/Material & Texture/Material mesh/coke_machine_texture.png using Guid(1936ed2defc3a7f4b906965a34d00aaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '964005efbda2e35237656fda7dc401f2') in 0.004694 seconds
-  Import took 0.005897 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000310 seconds.
-  path: Assets/Resuorsec/Simple city plain/Material & Texture/Material mesh/Grid.mat
-  artifactKey: Guid(f2f02f2d34418854d80798cb0fa82bc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resuorsec/Simple city plain/Material & Texture/Material mesh/Grid.mat using Guid(f2f02f2d34418854d80798cb0fa82bc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8a0da021bea85980de3361c527dd927') in 0.005925 seconds
-  Import took 0.007361 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000224 seconds.
-  path: Assets/Resuorsec/Simple city plain/Material & Texture/Material mesh/Dirt.mat
-  artifactKey: Guid(9b0509cf5979e03459b722142113657c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resuorsec/Simple city plain/Material & Texture/Material mesh/Dirt.mat using Guid(9b0509cf5979e03459b722142113657c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '411ab4b235de1d01484faf001aacf702') in 0.009723 seconds
-  Import took 0.011153 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000250 seconds.
-  path: Assets/Resuorsec/Simple city plain/Material & Texture/Material mesh/grid.png
-  artifactKey: Guid(9922cb1c199ed85459518a9fea40e481) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resuorsec/Simple city plain/Material & Texture/Material mesh/grid.png using Guid(9922cb1c199ed85459518a9fea40e481) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69d69e7ff0ae95a41ca0e076ab4f3a3d') in 0.003502 seconds
-  Import took 0.004813 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000246 seconds.
-  path: Assets/Resuorsec/Simple city plain/Material & Texture/Material mesh/SideWay.mat
-  artifactKey: Guid(826ead3abf95f194996cb8156de6f671) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resuorsec/Simple city plain/Material & Texture/Material mesh/SideWay.mat using Guid(826ead3abf95f194996cb8156de6f671) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb5da785d2fdbe9fccde3e259e9fb735') in 0.006332 seconds
-  Import took 0.007656 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000247 seconds.
-  path: Assets/Resuorsec/Simple city plain/Material & Texture/Material mesh/bench.mat
-  artifactKey: Guid(0cfe2f16ddac5b04b8acda9e8f8cb3ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resuorsec/Simple city plain/Material & Texture/Material mesh/bench.mat using Guid(0cfe2f16ddac5b04b8acda9e8f8cb3ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43e360c068d8b8c4aefa380bbaf410a7') in 0.006066 seconds
-  Import took 0.007449 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000234 seconds.
-  path: Assets/Resuorsec/Simple city plain/Material & Texture/Material mesh/Sidewalk_texture.png
-  artifactKey: Guid(1128a08027af2aa4eb774377b46c3064) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resuorsec/Simple city plain/Material & Texture/Material mesh/Sidewalk_texture.png using Guid(1128a08027af2aa4eb774377b46c3064) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40f416cc6f8ca7e44f076faed1435593') in 0.003049 seconds
-  Import took 0.004304 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000197 seconds.
-  path: Assets/Resuorsec/Simple city plain/Material & Texture/Material mesh/ColaMachine.mat
-  artifactKey: Guid(439eb576ca1364e47a9cda1cab72e5dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resuorsec/Simple city plain/Material & Texture/Material mesh/ColaMachine.mat using Guid(439eb576ca1364e47a9cda1cab72e5dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5b6de18838e0de2432ce9f9cecabd19') in 0.006031 seconds
-  Import took 0.007279 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000310 seconds.
-  path: Assets/Resuorsec/Simple city plain/Material & Texture/Material mesh/Big_trash_bin.mat
-  artifactKey: Guid(b6e4dbecc938a2948b3839b7d1409514) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resuorsec/Simple city plain/Material & Texture/Material mesh/Big_trash_bin.mat using Guid(b6e4dbecc938a2948b3839b7d1409514) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56f03adbb5d5a6e1e044f0e3d67d123e') in 0.005787 seconds
-  Import took 0.007149 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000222 seconds.
-  path: Assets/Resuorsec/Simple city plain/Material & Texture/Material mesh/Pot_tree.mat
-  artifactKey: Guid(3b40b8ee00299524ea7fc922043f7454) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resuorsec/Simple city plain/Material & Texture/Material mesh/Pot_tree.mat using Guid(3b40b8ee00299524ea7fc922043f7454) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd09ff1fe222ae0d1f0f59c519434965b') in 0.005154 seconds
-  Import took 0.006368 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000311 seconds.
-  path: Assets/Resuorsec/Simple city plain/Material & Texture/Material mesh/shop b.mat
-  artifactKey: Guid(d2ece15c27b1b3e42af178de8034e3be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resuorsec/Simple city plain/Material & Texture/Material mesh/shop b.mat using Guid(d2ece15c27b1b3e42af178de8034e3be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6abf27c828ae139949e0366acd2a419') in 0.006110 seconds
-  Import took 0.007407 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000185 seconds.
-  path: Assets/Resuorsec/Simple city plain/Material & Texture/Material mesh/dirt.png
-  artifactKey: Guid(d90409e4a3fae7f46bbf0450da252846) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resuorsec/Simple city plain/Material & Texture/Material mesh/dirt.png using Guid(d90409e4a3fae7f46bbf0450da252846) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1e159c970c6a476935e4f64236e78e6') in 0.005852 seconds
-  Import took 0.007159 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 13.568883 seconds.
-  path: Assets/Resuorsec/Simple city plain/Mesh
-  artifactKey: Guid(39267b5f31008cb4a9a2e2a2a7adcb4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resuorsec/Simple city plain/Mesh using Guid(39267b5f31008cb4a9a2e2a2a7adcb4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bc8953b3bf5d43c76956373d7f58a70') in 0.002459 seconds
-  Import took 0.014041 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.133627 seconds.
-  path: Assets/Resuorsec/Simple city plain/Mesh/bench.fbx
-  artifactKey: Guid(2c2a46e9474367f42af1fdbfcc3c2434) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resuorsec/Simple city plain/Mesh/bench.fbx using Guid(2c2a46e9474367f42af1fdbfcc3c2434) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6084a7a026f1dbb804abe57b06b1a233') in 0.231146 seconds
-  Import took 0.232984 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000243 seconds.
-  path: Assets/Resuorsec/Simple city plain/Mesh/Sidewalk_05.fbx
-  artifactKey: Guid(5b37bebced2befa4cb0fa7e92016e465) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resuorsec/Simple city plain/Mesh/Sidewalk_05.fbx using Guid(5b37bebced2befa4cb0fa7e92016e465) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f4598a97a0f310b79eedb2f2ec33bb4') in 0.022756 seconds
-  Import took 0.024246 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000217 seconds.
-  path: Assets/Resuorsec/Simple city plain/Mesh/Pot_tree.fbx
-  artifactKey: Guid(495aba848fd785f43bf771270ddea3dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resuorsec/Simple city plain/Mesh/Pot_tree.fbx using Guid(495aba848fd785f43bf771270ddea3dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11606ae1d7247cbc59058656db591356') in 0.016183 seconds
-  Import took 0.017623 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000203 seconds.
-  path: Assets/Resuorsec/Simple city plain/Mesh/Building_I_1.fbx
-  artifactKey: Guid(a31ede3a68c1fc642a73d7ab6870b43e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resuorsec/Simple city plain/Mesh/Building_I_1.fbx using Guid(a31ede3a68c1fc642a73d7ab6870b43e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '981d416db519d37d35d6b290922445c8') in 0.023971 seconds
-  Import took 0.025449 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000224 seconds.
-  path: Assets/Resuorsec/Simple city plain/Mesh/Building_I_2.fbx
-  artifactKey: Guid(9f70c3b25552f8c4cbfc2dc5b60b2c0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resuorsec/Simple city plain/Mesh/Building_I_2.fbx using Guid(9f70c3b25552f8c4cbfc2dc5b60b2c0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b068197628218269e537a25ab9a4311') in 0.019603 seconds
-  Import took 0.021093 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000243 seconds.
-  path: Assets/Resuorsec/Simple city plain/Mesh/street_lamp 1.fbx
-  artifactKey: Guid(be2c575b59c07d54e937a759af1f404e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resuorsec/Simple city plain/Mesh/street_lamp 1.fbx using Guid(be2c575b59c07d54e937a759af1f404e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18c41a521f254cd5290efe2f322f0de3') in 0.009680 seconds
-  Import took 0.010954 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000236 seconds.
-  path: Assets/Resuorsec/Simple city plain/Mesh/tree_01.fbx
-  artifactKey: Guid(679283963e23da7408c0cc75a881a565) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resuorsec/Simple city plain/Mesh/tree_01.fbx using Guid(679283963e23da7408c0cc75a881a565) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e7fa4af9c22d7dd62f31fa07dc06121') in 0.019400 seconds
-  Import took 0.020753 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000247 seconds.
-  path: Assets/Resuorsec/Simple city plain/Mesh/Big_trash_bin.fbx
-  artifactKey: Guid(221422f7266ae3249b686bbfb5989c70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resuorsec/Simple city plain/Mesh/Big_trash_bin.fbx using Guid(221422f7266ae3249b686bbfb5989c70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7628b0f8cac431abb8d6b6b5054996d') in 0.022659 seconds
-  Import took 0.024067 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000242 seconds.
-  path: Assets/Resuorsec/Simple city plain/Mesh/Hydrant.fbx
-  artifactKey: Guid(e929ac57e943d3c489f18cb67b6b4ac2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resuorsec/Simple city plain/Mesh/Hydrant.fbx using Guid(e929ac57e943d3c489f18cb67b6b4ac2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '405845a5b71de91edc9129838b6de09d') in 0.009482 seconds
-  Import took 0.010783 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000267 seconds.
-  path: Assets/Resuorsec/Simple city plain/Mesh/street_.fbx
-  artifactKey: Guid(72e65272e9752d842a914dd27fd86306) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resuorsec/Simple city plain/Mesh/street_.fbx using Guid(72e65272e9752d842a914dd27fd86306) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '935e09f57327422e3da281c32fbe8851') in 0.010216 seconds
-  Import took 0.011520 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000281 seconds.
-  path: Assets/Resuorsec/Simple city plain/Mesh/Gas_station_A.fbx
-  artifactKey: Guid(5bb97b332176ae0499af0f666e4f5828) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resuorsec/Simple city plain/Mesh/Gas_station_A.fbx using Guid(5bb97b332176ae0499af0f666e4f5828) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7676aaf9264ea9c805506d4e022cc1b5') in 0.015664 seconds
-  Import took 0.017126 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000215 seconds.
-  path: Assets/Resuorsec/Simple city plain/Mesh/WalkWay 5.fbx
-  artifactKey: Guid(391ef46e275c80b408f222be809688a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resuorsec/Simple city plain/Mesh/WalkWay 5.fbx using Guid(391ef46e275c80b408f222be809688a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c318a029bf7ea92aed04b0acc6efffe') in 0.009735 seconds
-  Import took 0.011028 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000260 seconds.
-  path: Assets/Resuorsec/Simple city plain/Mesh/ColaMachine.fbx
-  artifactKey: Guid(2831f92b409a46f45a21bbde0b1f5107) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resuorsec/Simple city plain/Mesh/ColaMachine.fbx using Guid(2831f92b409a46f45a21bbde0b1f5107) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b11d2a4d06c5db9b23372e509d7bf18') in 0.009914 seconds
-  Import took 0.011325 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000304 seconds.
-  path: Assets/Resuorsec/Simple city plain/Mesh/Building_A1.fbx
-  artifactKey: Guid(e48ed78ee18a85b4ab1b16c0f67824b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resuorsec/Simple city plain/Mesh/Building_A1.fbx using Guid(e48ed78ee18a85b4ab1b16c0f67824b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e12f102e7198ba314474314a993f9201') in 0.019488 seconds
-  Import took 0.021014 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000206 seconds.
-  path: Assets/Resuorsec/Simple city plain/Mesh/Shop_B.fbx
-  artifactKey: Guid(82fffc905fad13948a591b76e545791d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resuorsec/Simple city plain/Mesh/Shop_B.fbx using Guid(82fffc905fad13948a591b76e545791d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab24bbebb57666644f619d4849145456') in 0.011799 seconds
-  Import took 0.013372 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000290 seconds.
-  path: Assets/Resuorsec/Simple city plain/Mesh/Building_N.fbx
-  artifactKey: Guid(55ca7edad2f1e3b40b4dc5801b9f454b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resuorsec/Simple city plain/Mesh/Building_N.fbx using Guid(55ca7edad2f1e3b40b4dc5801b9f454b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c76436bb88717453203237a15034886') in 0.012962 seconds
-  Import took 0.014560 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000251 seconds.
-  path: Assets/Resuorsec/Simple city plain/Mesh/Building_M.fbx
-  artifactKey: Guid(33a58fa9897d81c4fa6655fc4a19a500) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resuorsec/Simple city plain/Mesh/Building_M.fbx using Guid(33a58fa9897d81c4fa6655fc4a19a500) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a62e7ee4f7808921e466ff8336abe24f') in 0.011505 seconds
-  Import took 0.012936 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000800 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for OSXStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.20 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.640 seconds
-Platform modules already initialized, skipping
-Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
-Refreshing native plugins compatible for Editor in 0.17 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1118 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 140.6 MB.
-System memory in use after: 140.7 MB.
-
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1626.
-Total: 1.126125 ms (FindLiveObjects: 0.101250 ms CreateObjectMapping: 0.022333 ms MarkObjects: 0.947083 ms  DeleteObjects: 0.054875 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001483 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for OSXStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.20 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.756 seconds
-Platform modules already initialized, skipping
-Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
-Refreshing native plugins compatible for Editor in 0.19 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1118 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 140.8 MB.
-System memory in use after: 140.9 MB.
-
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1629.
-Total: 1.118958 ms (FindLiveObjects: 0.120833 ms CreateObjectMapping: 0.022584 ms MarkObjects: 0.923167 ms  DeleteObjects: 0.051791 ms)
+Total: 1.109166 ms (FindLiveObjects: 0.089917 ms CreateObjectMapping: 0.022125 ms MarkObjects: 0.945208 ms  DeleteObjects: 0.051375 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
