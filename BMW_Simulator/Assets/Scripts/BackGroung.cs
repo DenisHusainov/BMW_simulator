@@ -4,18 +4,13 @@ using UnityEngine;
 
 public class BackGroung : MonoBehaviour
 {
-    public Material[] _skyMaterials;
-    
-    
-    // Start is called before the first frame update
-    void Start()
+    [SerializeField] private Material[] _skyMaterials;
+
+    private void Awake()
     {
-        
+        GetComponent<Skybox>().material = _skyMaterials[Random.Range(0, _skyMaterials.Length)];
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+
+
 }
