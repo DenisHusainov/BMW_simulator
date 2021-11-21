@@ -4,15 +4,6 @@ using UnityEngine;
 
 public class Road : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+    public Transform _begin;
+    public Transform _end;
 }

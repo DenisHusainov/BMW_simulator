@@ -2092,3 +2092,196 @@ Received Import Request.
 Start importing Assets/Resuorsec/Simple city plain/Prefabs/SpawnPrefab.prefab using Guid(77c87eb5f44ee41b783efed19964c2d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a574f4fe3d22bf6e7213ed4ef7f2ab9e') in 0.025068 seconds
   Import took 0.028012 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 11331.747275 seconds.
+  path: Assets/Resuorsec/Simple city plain/Prefabs/Street 3 Prefab.prefab
+  artifactKey: Guid(2224b63330275e5478ef024b2913f937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resuorsec/Simple city plain/Prefabs/Street 3 Prefab.prefab using Guid(2224b63330275e5478ef024b2913f937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3985c3c8dc6361ee37a05a34f6ca136') in 0.108674 seconds
+  Import took 0.138033 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.271403 seconds.
+  path: Assets/Resuorsec/Simple city plain/Prefabs/Street 3 Prefab.prefab
+  artifactKey: Guid(2224b63330275e5478ef024b2913f937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resuorsec/Simple city plain/Prefabs/Street 3 Prefab.prefab using Guid(2224b63330275e5478ef024b2913f937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b8db2de26a62312c3ecbeeb52ec48af') in 0.015679 seconds
+  Import took 0.019978 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.444778 seconds.
+  path: Assets/Resuorsec/Simple city plain/Prefabs/Street 3 Prefab.prefab
+  artifactKey: Guid(2224b63330275e5478ef024b2913f937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resuorsec/Simple city plain/Prefabs/Street 3 Prefab.prefab using Guid(2224b63330275e5478ef024b2913f937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30f75751d5ce4ccd95214b39c07f41df') in 0.011392 seconds
+  Import took 0.015022 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.611246 seconds.
+  path: Assets/Resuorsec/Simple city plain/Prefabs/Street 3 Prefab.prefab
+  artifactKey: Guid(2224b63330275e5478ef024b2913f937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resuorsec/Simple city plain/Prefabs/Street 3 Prefab.prefab using Guid(2224b63330275e5478ef024b2913f937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f1ab7539a4bea9cc8c9566e335b3a30') in 0.011935 seconds
+  Import took 0.014702 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.511297 seconds.
+  path: Assets/Resuorsec/Simple city plain/Prefabs/Street 3 Prefab.prefab
+  artifactKey: Guid(2224b63330275e5478ef024b2913f937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resuorsec/Simple city plain/Prefabs/Street 3 Prefab.prefab using Guid(2224b63330275e5478ef024b2913f937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd32683f9c6e37185d3861b1851a6bdc6') in 0.008472 seconds
+  Import took 0.010832 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.704663 seconds.
+  path: Assets/Resuorsec/Simple city plain/Prefabs/Street 3 Prefab.prefab
+  artifactKey: Guid(2224b63330275e5478ef024b2913f937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resuorsec/Simple city plain/Prefabs/Street 3 Prefab.prefab using Guid(2224b63330275e5478ef024b2913f937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9217004f00d54f884b5f67bf8a651ea') in 0.010244 seconds
+  Import took 0.012999 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.417269 seconds.
+  path: Assets/Resuorsec/Simple city plain/Prefabs/Street 3 Prefab.prefab
+  artifactKey: Guid(2224b63330275e5478ef024b2913f937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resuorsec/Simple city plain/Prefabs/Street 3 Prefab.prefab using Guid(2224b63330275e5478ef024b2913f937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d7599e2e4109df7d6953eddf7cd9057') in 0.024569 seconds
+  Import took 0.027075 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.621220 seconds.
+  path: Assets/Resuorsec/Simple city plain/Prefabs/Street 3 Prefab.prefab
+  artifactKey: Guid(2224b63330275e5478ef024b2913f937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resuorsec/Simple city plain/Prefabs/Street 3 Prefab.prefab using Guid(2224b63330275e5478ef024b2913f937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd68cc6dfb980ce60a6a305c1e981f795') in 0.008835 seconds
+  Import took 0.011592 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.105080 seconds.
+  path: Assets/Resuorsec/Simple city plain/Prefabs/Street 3 Prefab.prefab
+  artifactKey: Guid(2224b63330275e5478ef024b2913f937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resuorsec/Simple city plain/Prefabs/Street 3 Prefab.prefab using Guid(2224b63330275e5478ef024b2913f937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4742b8f29a1877bb3cd10768a170280') in 0.007947 seconds
+  Import took 0.010252 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.520046 seconds.
+  path: Assets/Resuorsec/Simple city plain/Prefabs/Street 3 Prefab.prefab
+  artifactKey: Guid(2224b63330275e5478ef024b2913f937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resuorsec/Simple city plain/Prefabs/Street 3 Prefab.prefab using Guid(2224b63330275e5478ef024b2913f937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40a62cd634abd4b4dbf6e97983da017d') in 0.008694 seconds
+  Import took 0.011783 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.832680 seconds.
+  path: Assets/Resuorsec/Simple city plain/Prefabs/Street 3 Prefab.prefab
+  artifactKey: Guid(2224b63330275e5478ef024b2913f937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resuorsec/Simple city plain/Prefabs/Street 3 Prefab.prefab using Guid(2224b63330275e5478ef024b2913f937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0846a31b4cf20294c8fd37c14bdf69f2') in 0.015790 seconds
+  Import took 0.020432 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.559945 seconds.
+  path: Assets/Resuorsec/Simple city plain/Prefabs/Street 3 Prefab.prefab
+  artifactKey: Guid(2224b63330275e5478ef024b2913f937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resuorsec/Simple city plain/Prefabs/Street 3 Prefab.prefab using Guid(2224b63330275e5478ef024b2913f937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ac8ce7c783c52c4439c76ffd2ac310f') in 0.013483 seconds
+  Import took 0.016586 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.282866 seconds.
+  path: Assets/Resuorsec/Simple city plain/Prefabs/Street 3 Prefab.prefab
+  artifactKey: Guid(2224b63330275e5478ef024b2913f937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resuorsec/Simple city plain/Prefabs/Street 3 Prefab.prefab using Guid(2224b63330275e5478ef024b2913f937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89787f5eebcf45cfc0d0553460bc2d66') in 0.010010 seconds
+  Import took 0.012777 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.485842 seconds.
+  path: Assets/Resuorsec/Simple city plain/Prefabs/Street 3 Prefab.prefab
+  artifactKey: Guid(2224b63330275e5478ef024b2913f937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resuorsec/Simple city plain/Prefabs/Street 3 Prefab.prefab using Guid(2224b63330275e5478ef024b2913f937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c3fc73a884751b939e13445844e9234') in 0.008683 seconds
+  Import took 0.011258 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 134.894916 seconds.
+  path: Assets/Resuorsec/Simple city plain/Prefabs/Street 3 Prefab.prefab
+  artifactKey: Guid(2224b63330275e5478ef024b2913f937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resuorsec/Simple city plain/Prefabs/Street 3 Prefab.prefab using Guid(2224b63330275e5478ef024b2913f937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '362731e9cb89070d2e2bd2a399cbd50b') in 0.027739 seconds
+  Import took 0.038129 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.278673 seconds.
+  path: Assets/Resuorsec/Simple city plain/Prefabs/Street 3 Prefab.prefab
+  artifactKey: Guid(2224b63330275e5478ef024b2913f937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resuorsec/Simple city plain/Prefabs/Street 3 Prefab.prefab using Guid(2224b63330275e5478ef024b2913f937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b422a8d922d9991941d435df89f400d') in 0.013799 seconds
+  Import took 0.016476 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.226636 seconds.
+  path: Assets/Resuorsec/Simple city plain/Prefabs/Street 3 Prefab.prefab
+  artifactKey: Guid(2224b63330275e5478ef024b2913f937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resuorsec/Simple city plain/Prefabs/Street 3 Prefab.prefab using Guid(2224b63330275e5478ef024b2913f937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ccd4a9e791ad464ed31fba5d92de9d5') in 0.009724 seconds
+  Import took 0.012774 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.288136 seconds.
+  path: Assets/Resuorsec/Simple city plain/Prefabs/Street 3 Prefab.prefab
+  artifactKey: Guid(2224b63330275e5478ef024b2913f937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resuorsec/Simple city plain/Prefabs/Street 3 Prefab.prefab using Guid(2224b63330275e5478ef024b2913f937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '921516ceeb14d619a5b4fe74ec6bb1e8') in 0.009384 seconds
+  Import took 0.012437 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.105576 seconds.
+  path: Assets/Resuorsec/Simple city plain/Prefabs/Street 3 Prefab.prefab
+  artifactKey: Guid(2224b63330275e5478ef024b2913f937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resuorsec/Simple city plain/Prefabs/Street 3 Prefab.prefab using Guid(2224b63330275e5478ef024b2913f937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8751ebe8e8b8cf1a4f8d2d30e9ec402a') in 0.012154 seconds
+  Import took 0.014627 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.430404 seconds.
+  path: Assets/Resuorsec/Simple city plain/Prefabs/Street 3 Prefab.prefab
+  artifactKey: Guid(2224b63330275e5478ef024b2913f937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resuorsec/Simple city plain/Prefabs/Street 3 Prefab.prefab using Guid(2224b63330275e5478ef024b2913f937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2d40974f80522094a0d6d6a7ded89a8') in 0.010855 seconds
+  Import took 0.013678 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.611784 seconds.
+  path: Assets/Resuorsec/Simple city plain/Prefabs/Street 3 Prefab.prefab
+  artifactKey: Guid(2224b63330275e5478ef024b2913f937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resuorsec/Simple city plain/Prefabs/Street 3 Prefab.prefab using Guid(2224b63330275e5478ef024b2913f937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '146dc37abada2657fee94240f99148b4') in 0.010014 seconds
+  Import took 0.013264 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000380 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.061 seconds
+Platform modules already initialized, skipping
+Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.21 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1267 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 161.3 MB.
+System memory in use after: 161.4 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1951.
+Total: 4.820458 ms (FindLiveObjects: 0.136750 ms CreateObjectMapping: 0.026875 ms MarkObjects: 4.447375 ms  DeleteObjects: 0.208542 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000

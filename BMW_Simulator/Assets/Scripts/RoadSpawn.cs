@@ -4,17 +4,16 @@ using UnityEngine;
 
 public class RoadSpawn : MonoBehaviour
 {
-   /* [SerializeField] private GameObject _player;
-    private Vector3 _posPlayer;
+    [SerializeField] private Transform _player;
+    [SerializeField] private Road _roadPrefab;
 
-    private void Start()
+    private List<Road> _spawnedroads = new List<Road>(); 
+
+    private void Spawner()
     {
-        _posPlayer = _player.transform.position;
+        var newroad = Instantiate(_roadPrefab);
+        newroad.transform.position = _spawnedroads[_spawnedroads.Count - 1]._end.position - newroad._begin.position;
+        _spawnedroads.Add(newroad);
     }
 
-    private void Update()
-    {
-        
-    }
-   */
 }
