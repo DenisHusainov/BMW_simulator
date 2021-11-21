@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.EventSystems;
 using UnityEngine.UI;
 
 public class PlayerController : MonoBehaviour
@@ -23,16 +24,17 @@ public class PlayerController : MonoBehaviour
         _rd.AddForce(Vector3.forward * _speed * Time.fixedDeltaTime);
     }
 
-    /*public void Move()
+    public void Move()
     {
         if (_rightArrow)
         {
-            transform.Translate(Vector3.right * _turnSpeed * Time.deltaTime);
+            _rd.AddForce(Vector3.right * _turnSpeed * Time.deltaTime);
         }
         if (_leftArrow)
         {
-            transform.Translate(Vector3.left * _turnSpeed * Time.deltaTime);
+            _rd.AddForce(Vector3.left * _turnSpeed * Time.deltaTime);
         }
-    }*/
-   
+    }
+
+    
 }

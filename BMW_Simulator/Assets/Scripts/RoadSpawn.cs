@@ -4,15 +4,17 @@ using UnityEngine;
 
 public class RoadSpawn : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+   /* [SerializeField] private GameObject _player;
+    private Vector3 _posPlayer;
+
+    private void Start()
     {
-        
+        _posPlayer = _player.transform.position;
     }
 
-    // Update is called once per frame
-    void Update()
+    private void Update()
     {
         
     }
+   */
 }
