@@ -6,14 +6,29 @@ public class RoadSpawn : MonoBehaviour
 {
     [SerializeField] private Transform _player;
     [SerializeField] private Road _roadPrefab;
+    [SerializeField] private Road _firstPrefab;
 
-    private List<Road> _spawnedroads = new List<Road>(); 
+    private List<Road> Spawnedroads = new List<Road>();
+
+    private void Start()
+    {
+        Spawnedroads.Add(_firstPrefab);
+    }
+
+    private void Update()
+    {
+        if (_player.transform.position.z > Spawnedroads[Spawnedroads.Count - 1]._end.position.z)
+        {
+            Spawner();
+        }
+    }
+
 
     private void Spawner()
     {
         var newroad = Instantiate(_roadPrefab);
-        newroad.transform.position = _spawnedroads[_spawnedroads.Count - 1]._end.position - newroad._begin.position;
-        _spawnedroads.Add(newroad);
+        newroad.transform.position = Spawnedroads[Spawnedroads.Count - 1]._end.position - newroad._begin.localPosition;
+        Spawnedroads.Add(newroad);
     }
 
 }
