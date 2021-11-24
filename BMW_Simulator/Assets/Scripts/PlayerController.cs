@@ -20,19 +20,23 @@ public class PlayerController : MonoBehaviour
 
     private void Update()
     {
+        
+    }
+
+    private void FixedUpdate()
+    {
+        _rd.AddForce(Vector3.forward * _speed * Time.fixedDeltaTime);
+
         if (Input.GetKey(KeyCode.D))
         {
-            _rd.AddForce(Vector3.right * _turnSpeed);
+            _rd.position += Vector3.right * _turnSpeed * Time.fixedDeltaTime;
         }
 
         if (Input.GetKey(KeyCode.A))
         {
-            _rd.AddForce(Vector3.left * _turnSpeed);
+            _rd.position += Vector3.left * _turnSpeed * Time.fixedDeltaTime;
         }
-    }
-    private void FixedUpdate()
-    {
-        _rd.AddForce(Vector3.forward * _speed * Time.fixedDeltaTime);
+
         Move();
     }
 
