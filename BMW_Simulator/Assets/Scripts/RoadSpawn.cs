@@ -30,8 +30,9 @@ public class RoadSpawn : MonoBehaviour
         newroad.transform.position = Spawnedroads[Spawnedroads.Count - 1]._end.position - newroad._begin.localPosition;
         Spawnedroads.Add(newroad);
 
-        if (Spawnedroads.Count > 15)
+        if (Spawnedroads.Count > 30)
         {
+            Debug.Log("Destroy");
             Destroy(Spawnedroads[0].gameObject);
             Spawnedroads.RemoveAt(0);
         }
