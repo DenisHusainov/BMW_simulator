@@ -37,13 +37,18 @@ public class PlayerController : MonoBehaviour
             _rd.position += Vector3.left * _turnSpeed * Time.fixedDeltaTime;
         }
 
-        Move();
     }
 
-    public void Move()
-    {
-        
-    }
 
-    
+    //public void OnRightButtonClick()
+    //{ 
+    //     _rd.position += Vector3.right * _turnSpeed * Time.fixedDeltaTime;
+    //}
+
+    //public void OnLeftButtonClick()
+    //{
+    //    _rd.position += Vector3.left * _turnSpeed * Time.fixedDeltaTime;
+
+    //}
+
 }
