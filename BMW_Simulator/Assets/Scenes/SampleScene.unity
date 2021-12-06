@@ -1314,6 +1314,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4123656780004564668, guid: 09a01e97792fe48f0ac0efcef5b9b28a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -4
+      objectReference: {fileID: 0}
     - target: {fileID: 6172814803874779442, guid: 09a01e97792fe48f0ac0efcef5b9b28a, type: 3}
       propertyPath: m_Name
       value: Street 3 Prefab
