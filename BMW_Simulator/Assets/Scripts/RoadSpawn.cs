@@ -17,12 +17,16 @@ public class RoadSpawn : MonoBehaviour
 
     private void Update()
     {
-        if (_player.transform.position.z > Spawnedroads[Spawnedroads.Count - 1]._end.position.z - 50)
+        
+    }
+
+    private void OnTriggerEnter(Collider other)
+    {
+        if (other.transform.position.z > Spawnedroads[Spawnedroads.Count - 1]._end.position.z - 50)
         {
             Spawner();
         }
     }
-
 
     private void Spawner()
     {
